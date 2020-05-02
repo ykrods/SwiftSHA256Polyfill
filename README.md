@@ -7,3 +7,5 @@ A Polyfill of the CryptoKit SHA256 for before iOS13.
 # Installation
 
 Use Swift Package Manager.
+
+URL: https://github.com/ykrods/SwiftSHA256Polyfill.git
